@@ -33,7 +33,7 @@ Follow `skills/grant-application/SKILL.md` exactly. For each question:
 
 ## Step 4: Output
 
-Save the draft as: `output/grant_drafts/grant_[slugified-name]_YYYY-MM-DD.md`
+Save the draft as: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/00-INBOX/_YYYY-MM-DD-grant-[slugified-name].md`
 
 Format:
 ```markdown
@@ -70,13 +70,13 @@ Format:
 
 Change the grant's row:
 - Status: "Drafting" (was probably "Not Started")
-- Next Action: "Nick to review draft at output/grant_drafts/[filename]"
+- Next Action: "Nick to review draft at 00-INBOX/[filename]"
 
 ## Step 6: Tell Nick
 
 Reply concisely:
 ```
-✅ Drafted [Grant Name] application at output/grant_drafts/[filename]
+✅ Drafted [Grant Name] application at 00-INBOX/[filename]
 
 [X] questions answered, [N] words total.
 Word count details: [if helpful]

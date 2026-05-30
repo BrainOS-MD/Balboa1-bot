@@ -180,7 +180,7 @@ The underscore prefix ensures all bot-generated files sort to the top of 00-INBO
 
 ## Output Format for Daily Briefing
 
-File: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/00-INBOX/daily_brief_YYYY-MM-DD.md`
+File: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/00-INBOX/_YYYY-MM-DD-daily-brief.md`
 
 Sections in this order:
 1. Pipeline Snapshot (text + ASCII bars)

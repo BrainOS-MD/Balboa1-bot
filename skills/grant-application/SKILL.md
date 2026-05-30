@@ -93,7 +93,7 @@ Pull from the "Est. Size" column. Default to the middle of their stated range. J
 
 ### Step 5: Output format
 
-Save the full draft as `output/grant_drafts/grant_[NAME]_[DATE].md`. Structure:
+Save the full draft as `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/00-INBOX/_[DATE]-grant-[NAME].md`. Structure:
 
 ```markdown
 # Grant Application Draft: [Grant Name]
@@ -114,7 +114,7 @@ Save the full draft as `output/grant_drafts/grant_[NAME]_[DATE].md`. Structure:
 - [ ] Update Grants Pipeline tab: Status → "Submitted", Date Applied → today, Amount Requested → $X
 ```
 
-Then update the Grants Pipeline tab in the Sheet: Status → "Drafting", Next Action → "Nick to review draft at output/grant_drafts/..."
+Then update the Grants Pipeline tab in the Sheet: Status → "Drafting", Next Action → "Nick to review draft at 00-INBOX/_[DATE]-grant-[NAME].md"
 
 ---
 
