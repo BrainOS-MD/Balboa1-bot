@@ -133,13 +133,22 @@ Cap: 2 searches maximum per contact. 10 searches maximum per briefing session.
 
 3. **Nick's voice.** See `context/founder_voice.md`. Short sentences. Operator tone. No hype.
 
-4. **Banned phrases — delete and rewrite:**
-   - "I'd love to connect"
-   - "excited to share"
-   - "hope this finds you well"
-   - "just wanted to reach out"
-   - generic thesis praise without specific tie-in
-   - "amazing / transformative / revolutionary"
+4. **Banned phrases — delete and rewrite** (source of truth: `SOUL.md`):
+
+   *AI-speak:*
+   - "delve", "tapestry", "nuance", "deep dive", "granular", "actionable", "unpack"
+   - "robust", "scalable", "seamless", "cutting-edge", "innovative" (as standalone adjective)
+   - "paradigm", "ecosystem" (generic), "empower", "unlock", "leverage" (verb), "streamline"
+   - "holistic", "best-in-class", "next-generation", "world-class"
+
+   *Founder/sales speak:*
+   - "I'd love to connect", "excited to share", "hope this finds you well"
+   - "just wanted to reach out", "circling back"
+   - "amazing / transformative / revolutionary / game-changing / utilize"
+   - "synergy", "value-add", "value proposition", "thought leader", "disruptive"
+   - "move the needle", "stakeholders", "bandwidth" (meaning capacity)
+   - "at the end of the day", "low-hanging fruit"
+   - generic thesis praise without a specific tie-in
    - soft closes when a direct ask is cleaner
 
 5. **One ask per message.** Explicit. Specific time or action. No "open to chatting whenever."
