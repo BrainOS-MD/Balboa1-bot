@@ -1,0 +1,13 @@
+# NEVER commit credentials
+credentials/*.json
+!credentials/README.md
+
+# Output files (you may want to keep these locally but not share)
+output/*.md
+
+# OS/editor cruft
+.DS_Store
+*.swp
+*.tmp
+.vscode/
+.idea/

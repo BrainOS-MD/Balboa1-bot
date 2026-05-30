@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "WebSearch",
+      "Bash(pip3 install *)",
+      "Bash(ls \"/Users/chrissimon/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/03-BRIEFS/\" 2>/dev/null | head -20)",
+      "Bash(ls \"/Users/chrissimon/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/00-INBOX/\" 2>/dev/null | tail -10)",
+      "Bash(ls -la /Users/chrissimon/.claude/)",
+      "Bash(ls \"/Users/chrissimon/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/00-INBOX/\" 2>/dev/null | head -20)",
+      "Bash(head -30 \"/Users/chrissimon/Library/Mobile Documents/iCloud~md~obsidian/Documents/JARVIS-vault/03-BRIEFS/_balboa-bridge.md\" 2>/dev/null)"
+    ]
+  }
+}
