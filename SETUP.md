@@ -1,4 +1,4 @@
-# Setup Guide — BALBOA1 Outreach Bot
+# Setup Guide — BizBot — AI Outreach & Briefing System
 
 For Mac. Assumes zero terminal experience. **Plan 45 minutes** for the first run.
 
@@ -65,7 +65,7 @@ pip3 install --break-system-packages gspread google-auth google-auth-oauthlib
 
 ### 2.1 Upload the seed file
 
-1. Download `BALBOA1_CRM_v2.xlsx` (provided to you).
+1. Download `BALBOA1_CRM_v2.xlsx (or your current CRM export)` (provided to you).
 2. Go to [drive.google.com](https://drive.google.com).
 3. Drag the xlsx into your Drive.
 4. **Right-click the file → "Open with → Google Sheets"**. This converts it to native Google Sheets format.
